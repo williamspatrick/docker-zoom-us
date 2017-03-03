@@ -4,7 +4,7 @@
 FROM debian:jessie
 MAINTAINER mdouchement
 
-ARG ZOOM_URL=https://zoom.us/client/latest/zoom_2.0.52458.0531_amd64.deb
+ARG ZOOM_URL=https://zoom.us/client/latest/zoom_amd64.deb
 
 ENV DEBIAN_FRONTEND noninteractive
 
